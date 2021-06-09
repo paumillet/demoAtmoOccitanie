@@ -28,4 +28,5 @@ dependencies:
   - python-libarchive-c=2.9=pyhd3eb1b0_1
   - sqlalchemy=1.4.7=py38h27cfd23_0
   - sqlite=3.35.4=hdfb4753_0
+  - xlrd=2.0.1=pyhd3eb1b0_0
 prefix: /home/pauline/anaconda3/envs/atmo2_env
