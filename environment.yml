@@ -2,9 +2,6 @@ name: atmo_env
 channels:
   - defaults
 dependencies:
-  - anaconda=2021.05=py39_0
-  - anaconda-client=1.7.2=py39h06a4308_0
-  - anaconda-project=0.9.1=pyhd3eb1b0_1
   - ipykernel=5.3.4=py39hb070fc8_0
   - ipython=7.22.0=py39hb070fc8_0
   - ipython_genutils=0.2.0=pyhd3eb1b0_1
